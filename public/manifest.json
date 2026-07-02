@@ -1,0 +1,20 @@
+{
+  "name": "landsea — India Business Intelligence",
+  "short_name": "landsea",
+  "description": "Find local businesses without a website across India",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#09090B",
+  "theme_color": "#09090B",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity"],
+  "lang": "en-IN"
+}

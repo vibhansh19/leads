@@ -1,0 +1,19 @@
+{
+  "name": "landsea",
+  "version": "0.2.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "^18",
+    "react-dom": "^18",
+    "@supabase/supabase-js": "^2.39.7",
+    "@vercel/analytics": "^1.3.1",
+    "@vercel/speed-insights": "^1.0.11"
+  }
+}
